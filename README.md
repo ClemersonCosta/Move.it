@@ -1,4 +1,4 @@
-Move.it
+Move.it-next
 
 Aplicação ReactJS construída durante a maratona de programação NLW4 (fev-2021) promovida pela @Rocketseat.
 
